@@ -7,7 +7,8 @@ Android is a Linux based operating system it is designed primarily for touch scr
 Just for the reasons I got here
 ```
 1. It is officially suppoeted by Google for Android Development now.
-2. It is 100% interoperable with Java codes which means you can call all your java methods from kotlin codes.
+2. It is 100% interoperable with Java codes which means you can call all your java
+   methods from kotlin codes.
 3. It support both object oriented programming and functional programming.
 4. It has null safety feature which is the most times couse of Android App crash.
 5. At last, it has less code comparison to java.
