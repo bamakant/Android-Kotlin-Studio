@@ -34,3 +34,4 @@ If you are running 64-bit Fedora, the command is:
 ```
 sudo yum install zlib.i686 ncurses-libs.i686 bzip2-libs.i686
 ```
+> To make Android Studio available in your list of applications, select Tools > Create Desktop Entry from the Android Studio menu bar.
