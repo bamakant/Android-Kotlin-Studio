@@ -17,13 +17,29 @@ fun main(args: Array<String>) {
     val age = readLine()!!.toInt()
 
 var message : String
-    if(age < 18){
-        message = "you are too young."
-    } else if(age == 100){
-        message = "Cofngratulations."
-    } else{
-        message = "You can vote."
-    }
+    // if(age < 18){
+    //     message = "you are too young."
+    // } else if(age == 100){
+    //     message = "Cofngratulations."
+    // } else{
+    //     message = "You can vote."
+    // }
+
+
+// message = if(age < 18){
+//         "you are too young."
+//     } else if(age == 100){
+//         "Cofngratulations."
+//     } else{
+//         "You can vote."
+//     }
+
+//switch case statement n kotlin
+message = when {
+    age < 18 -> "You are too young."
+    age == 100 -> " COngratulations."
+    else -> "You can vote."
+}
 
     println(message)
 }
