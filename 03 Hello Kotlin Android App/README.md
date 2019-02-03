@@ -1,4 +1,6 @@
-## Hello Kotlin Android Projects
+## Hello Kotlin Android App
+
+This is a sample app to show a Text View of Hello Kotlin message.
 
 ### Steps to RUN this project on your local machine.
 
