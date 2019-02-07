@@ -1,6 +1,7 @@
-## Hello Kotlin Android App
+## Simple Android App
 
-This is a sample app to show a Text View of Hello Kotlin message.
+Simple android app with Buttons, TextViews and ImageViews.
+This app's layout was developed using Constraint Layout only.
 
 ### Steps to RUN this project on your local machine.
 
